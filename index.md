@@ -1,7 +1,7 @@
 ---
 title: Home
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Keep
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
